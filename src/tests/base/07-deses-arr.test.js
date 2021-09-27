@@ -1,6 +1,6 @@
 import '@testing-library/jest-dom';
 
-import { retornaArreglo } from "../../base/07-deses-arr";
+import { retornaArreglo } from '../../base/07-deses-arr';
 
 describe('Pruebas en desestructuración', () => {
    test('Debe de retornar un string y un número', () => {
